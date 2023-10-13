@@ -1,3 +1,5 @@
+github.com/monopole/goplay/apple v1.0.0 h1:TcZKEk7zS+Hkp9U6e/8v0DD9tQlergN1umECZQo1+l8=
+github.com/monopole/goplay/apple v1.0.0/go.mod h1:1DUXAwJffrxMHDu2fLfKFQZHFyUdy95yxtXNj5TouUY=
 github.com/monopole/goplay/apple/v2 v2.0.0 h1:PHKZu9+AHy9xos7WqxnyFB8+HXTS/ThuIPVG8DN2S+M=
 github.com/monopole/goplay/apple/v2 v2.0.0/go.mod h1:9KPqDDvwKuOAuVOFDauYRVv/4SPO9hxOe29KohGdzrI=
 github.com/monopole/goplay/banana v1.0.0 h1:ce5kADbj87/KPmF6fpYH0Pr4VvbCI4DPekZt5sqQq4w=
