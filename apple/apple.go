@@ -2,6 +2,6 @@ package apple
 
 import "fmt"
 
-func PrintFruit() {
-	fmt.Println("apple")
+func PrintFruit(arg string) {
+	fmt.Printf("apple v.2 %q\n", arg)
 }
